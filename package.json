@@ -1,4 +1,5 @@
 {
+  "homepage": "https://blog-react-test.vercel.app/",
   "name": "blog-react",
   "version": "0.1.0",
   "private": true,
